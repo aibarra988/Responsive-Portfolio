@@ -1,0 +1,10 @@
+Things to take care of:
+    - Add background
+    
+    Header: 
+        - item positioning
+
+    Container:
+        - Scroll when there is not enough vertical space
+
+    Footer:
